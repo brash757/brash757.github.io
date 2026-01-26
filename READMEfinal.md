@@ -92,3 +92,5 @@ Throughout this project, I used the Web Design Assistant to:
 6. After deployment, GitHub provides a live URL at the top of the Pages settings
 
 ### **Live Site URL**
+
+https://brash757.github.io/
